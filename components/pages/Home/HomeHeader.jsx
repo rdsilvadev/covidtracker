@@ -20,7 +20,7 @@ const HomeHeader = () => {
                 </h1>
                 <p className="max-w-sm mb-2 md:max-w-md">
                     Corona disease(COVID-19) is an infectious disease casued by
-                    a new virus. The 2019 novel corona virus (2019-nCov),
+                    a new virus. The 2019 novel corona virus,
                     officially named as COVID-19 pandemic by the WHO, has spread
                     to more than 180 countries including China
                 </p>

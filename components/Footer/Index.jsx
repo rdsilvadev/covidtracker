@@ -16,7 +16,7 @@ const Footer = () => {
                 <FooterContactUs />
             </div>
             <div className="flex items-center justify-between flex-wrap space-y-5 pt-7">
-                <div>2021 Ncov Ltd. All rights preserevd</div>
+                <div>2021 Covid Tracker Ltd. All rights preserevd</div>
                 <ul className="flex items-center justify-around space-x-3">
                     <li className="">
                         <Link href="/">
